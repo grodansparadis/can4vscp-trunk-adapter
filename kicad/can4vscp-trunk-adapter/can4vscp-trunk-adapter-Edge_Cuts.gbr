@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
+%TF.CreationDate,2026-04-30T23:35:36+02:00*%
+%TF.ProjectId,can4vscp-trunk-adapter,63616e34-7673-4637-902d-7472756e6b2d,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-04-30 23:35:36*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X133030000Y-52130000D02*
+X166110000Y-52130000D01*
+X166110000Y-103370000D01*
+X133030000Y-103370000D01*
+X133030000Y-52130000D01*
+M02*
